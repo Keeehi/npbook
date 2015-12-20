@@ -16,3 +16,4 @@
     } else {
         include "includes/welcome.php";
     }
+    
