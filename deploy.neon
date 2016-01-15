@@ -1,2 +1,4 @@
 run:
     - "ls -al"
+buildFolder: "build"
+publicFolder: "www"
